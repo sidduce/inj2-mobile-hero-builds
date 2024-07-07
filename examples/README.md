@@ -14,7 +14,7 @@ const client = new Client({
 });
 
 // Provide your own Discord bot token
-const BOT_TOKEN = 'token123';
+const BOT_TOKEN = 'MTI1OTM2MjU0MDcxOTQ0Mzk3OA.GSHijB.SVU3ojXARMbJuZ8eQpIDo3SrpvpP-X9jhbxZCU';
 
 // Initial fetch to reduce delay on command
 client.on('ready', () => {
